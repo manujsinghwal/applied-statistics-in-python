@@ -1,2 +1,2 @@
 # Applied Statistics
-Implementing my statistics knowledge with Python.
+Implementing my statistics and data viz. knowledge with Python.
